@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://www.wegotcharacter.com/cdn/shop/products/IMG20180514104306_700x.jpg?v=1578775961);
+}
+
+h1 {
+    color: rgb(234, 0, 255);
+    background-color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+p {
+    color: rgba(96, 190, 14, 0.712);
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+
+}
+
+button {
+    color: red;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: 75%;
+    font: 5em;
+    
+}
